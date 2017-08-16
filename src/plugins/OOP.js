@@ -4,6 +4,8 @@
 // ------------------------------------------------------
 // TODOS: 
 //   1. Update overiding to use a special HTML attribute
+//   2. Figure out if can add a custom attribute 
+//      so that don't have to use a method to return the template string
 // ------------------------------------------------------
 // ------------------------------------------------------
 // ------------------------------------------------------
